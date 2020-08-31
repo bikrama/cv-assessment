@@ -19,5 +19,6 @@ cd scripts
 python rasterio_ndvi.py
 ```
 
-#License
+##License
+
 MIT; Use as is without restrictions
